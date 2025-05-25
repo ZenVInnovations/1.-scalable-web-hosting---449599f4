@@ -1,0 +1,11 @@
+# DEPENDENCIES
+node_modules
+
+# ENV
+.env
+project.env
+
+# Local 
+LocalTesting
+.DS_Store
+app-cache
